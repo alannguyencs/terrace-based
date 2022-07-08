@@ -3,7 +3,7 @@ This paper represents object instance as a terrace, where the height of terrace 
 
 Check out our conference paper [here](https://ojs.aaai.org/index.php/AAAI/article/view/16337).
 
-The images and segmentation masks are publicly available to download [here](https://drive.google.com/file/d/1tXtxZE7cI1uhbay_b6I4qEz86zh0R8kq/view?usp=sharing).
+The images and segmentation masks are publicly available to download [here]().
 
 ![SibNet Performance](images/result.png)
 
