@@ -1,0 +1,1 @@
+pscp -P 22 -pw cwngo$1234 -r G:/"My Drive"/server/alan_project/terrace tnguyenhu2@vireo02.cs.cityu.edu.hk:/home/tnguyenhu2/alan_project/
