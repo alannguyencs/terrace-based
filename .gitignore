@@ -280,3 +280,4 @@ $RECYCLE.BIN/
 *.so
 *.cpp
 /src/log/*
+note.txt
